@@ -6,4 +6,4 @@
 
 ![Keyboard Cat](keyboardCat.gif)
 
-![Michael Scott dancing] (giphy.gif)
+![Michael Scott dancing](giphy.gif)
