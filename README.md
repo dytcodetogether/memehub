@@ -26,5 +26,9 @@
 
 ![giphy-downsize](giphy-downsized.gif)
 
+<<<<<<< HEAD
+![coffee sloth](coffee_sloth.gif)
+=======
 
 
+>>>>>>> b9a04e75aa51a22d595069086dd38148c597545a
