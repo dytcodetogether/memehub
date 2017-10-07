@@ -26,5 +26,5 @@
 
 ![giphy-downsize](giphy-downsized.gif)
 
-![coffee sloth](coffee_sloth.gif)
+
 
