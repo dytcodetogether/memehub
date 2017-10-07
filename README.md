@@ -6,4 +6,14 @@
 
 ![Keyboard Cat](keyboardCat.gif)
 
+![Friendship](ILerveFriendship.gif)
+
+![Hypnotoad](toad.gif)
+
+![Hello](hello.gif)
+
+![Dancing](https://media.giphy.com/media/2aAcLrYtiX8YM/giphy.gif)
+
+![cat](https://media.giphy.com/media/AYSPpvHktnVWU/giphy.gif)
+
 ![Michael Scott dancing](giphy.gif)
