@@ -14,4 +14,8 @@
 
 ![Dancing](https://media.giphy.com/media/2aAcLrYtiX8YM/giphy.gif)
 
+![cat](https://media.giphy.com/media/AYSPpvHktnVWU/giphy.gif)
+
+![Michael Scott dancing](giphy.gif)
+
 ![LittleKitten](kitten.gif)
