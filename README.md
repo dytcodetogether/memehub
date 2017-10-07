@@ -23,3 +23,6 @@
 ![Sinclair](picSinclair.jpg)
 
 ![newPhoto](https://media.giphy.com/media/pNLvcbyeSuKDC/giphy.gif)
+
+![giphy-downsize](giphy-downsized.gif)
+
