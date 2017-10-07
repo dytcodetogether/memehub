@@ -6,4 +6,4 @@
 
 ![Keyboard Cat](keyboardCat.gif)
 
-![Giphy](Giphy.gif)
+![Giphy](giphy.gif)
