@@ -21,3 +21,5 @@
 ![LittleKitten](kitten.gif)
 
 ![Sinclair](picSinclair.jpg)
+
+![newPhoto](https://media.giphy.com/media/pNLvcbyeSuKDC/giphy.gif)
