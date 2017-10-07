@@ -19,3 +19,5 @@
 ![Michael Scott dancing](giphy.gif)
 
 ![LittleKitten](kitten.gif)
+
+![Sinclair](picSinclair.jpg)
