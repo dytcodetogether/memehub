@@ -13,3 +13,5 @@
 ![Hello](hello.gif)
 
 ![Dancing](https://media.giphy.com/media/2aAcLrYtiX8YM/giphy.gif)
+
+![LittleKitten](kitten.gif)
