@@ -7,3 +7,5 @@
 ![Keyboard Cat](keyboardCat.gif)
 
 ![Friendship](ILerveFriendship.gif)
+
+![Hypnotoad](toad.gif)
