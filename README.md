@@ -29,4 +29,6 @@
 
 ![coffee sloth](coffee_sloth.gif)
 
+![bunny](https://media.giphy.com/media/ef61oIGVyckY8/giphy.gif)
+
 ## Make Your First Contribution!
