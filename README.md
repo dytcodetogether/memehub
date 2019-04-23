@@ -26,9 +26,10 @@
 
 ![giphy-downsize](giphy-downsized.gif)
 
-
 ![coffee sloth](coffee_sloth.gif)
 
 ![bunny](https://media.giphy.com/media/ef61oIGVyckY8/giphy.gif)
+
+![doing math](https://media.tenor.com/images/d88a4335eedf920caa5e6dc7b0fe1887/tenor.gif)
 
 ## Make Your First Contribution!
